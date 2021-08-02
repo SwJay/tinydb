@@ -1,2 +1,7 @@
 db
 .ccls-cache/
+.bundle
+.rspec
+bin/
+spec/main_rspec.rb
+
