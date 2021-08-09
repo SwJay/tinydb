@@ -1,7 +1,10 @@
 db
+*.db
 .ccls-cache/
 .bundle
 .rspec
+.vscode/
+db.dSYM/
 bin/
 spec/main_rspec.rb
 
